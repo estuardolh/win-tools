@@ -1,0 +1,6 @@
+[Dd]ebug/
+[Oo]bj/
+.vs/
+*.pubxml
+*.csproj.user
+/Properties/PublishProfiles/FolderProfile.pubxml.user
