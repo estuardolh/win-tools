@@ -1,5 +1,6 @@
 [Dd]ebug/
 [Oo]bj/
+[Bb]in/
 .vs/
 *.pubxml
 *.csproj.user
